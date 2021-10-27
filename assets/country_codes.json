@@ -1,0 +1,2613 @@
+{
+    "AD": {
+        "name": "Andorra",
+        "native": "Andorra",
+        "phone": "376",
+        "continent": "EU",
+        "area": "468.0",
+        "population": "77,006",
+        "capital": "Andorra la Vella",
+        "currency": "EUR",
+        "languages": [
+            "ca"
+        ]
+    },
+    "AE": {
+        "name": "Birlashgan Arab Amirliklari",
+        "native": "دولة الإمارات العربية المتحدة",
+        "phone": "971",
+        "area": "82,880.0",
+        "continent": "AS",
+        "capital": "Abu Dhabi",
+        "population": "9,630,959",
+        "currency": "AED",
+        "languages": [
+            "ar"
+        ]
+    },
+    "AF": {
+        "name": "Afg'oniston",
+        "native": "افغانستان",
+        "phone": "93",
+        "area": "647,500.0",
+        "continent": "AS",
+        "capital": "Kabul",
+        "population": "37,172,386",
+        "currency": "AFN",
+        "languages": [
+            "ps",
+            "uz",
+            "tk"
+        ]
+    },
+    "AG": {
+        "name": "Antigua va Barbuda",
+        "native": "Antigua and Barbuda",
+        "phone": "1268",
+        "area": "443.0",
+        "continent": "NA",
+        "capital": "Saint John's",
+        "population": "96,286",
+        "currency": "XCD",
+        "languages": [
+            "en"
+        ]
+    },
+    "AL": {
+        "name": "Albaniya",
+        "native": "Shqipëria",
+        "phone": "355",
+        "area": "28,748.0",
+        "population": "2,866,376",
+        "continent": "EU",
+        "capital": "Tirana",
+        "currency": "ALL",
+        "languages": [
+            "sq"
+        ]
+    },
+    "AM": {
+        "name": "Armaniston",
+        "native": "Հայաստան",
+        "phone": "374",
+        "area": "29,800.0",
+        "population": "2,951,776",
+        "continent": "AS",
+        "capital": "Yerevan",
+        "currency": "AMD",
+        "languages": [
+            "hy",
+            "ru"
+        ]
+    },
+    "AO": {
+        "name": "Angola",
+        "native": "Angola",
+        "phone": "244",
+        "area": "1,246,700.0",
+        "population": "30,809,762",
+        "continent": "AF",
+        "capital": "Luanda",
+        "currency": "AOA",
+        "languages": [
+            "pt"
+        ]
+    },
+    "AR": {
+        "name": "Argentina",
+        "native": "Argentina",
+        "phone": "54",
+        "area": "2,766,890.0",
+        "population": "44,494,502",
+        "continent": "SA",
+        "capital": "Buenos Aires",
+        "currency": "ARS",
+        "languages": [
+            "es",
+            "gn"
+        ]
+    },
+    "AT": {
+        "name": "Avstriya",
+        "native": "Österreich",
+        "phone": "43",
+        "area": "83,858.0",
+        "population": "8,847,037",
+        "continent": "EU",
+        "capital": "Vienna",
+        "currency": "EUR",
+        "languages": [
+            "de"
+        ]
+    },
+    "AU": {
+        "name": "Avstraliya",
+        "native": "Australia",
+        "phone": "61",
+        "area": "7,686,850.0",
+        "population": "24,992,369",
+        "continent": "OC",
+        "capital": "Canberra",
+        "currency": "AUD",
+        "languages": [
+            "en"
+        ]
+    },
+    "AW": {
+        "name": "Aruba",
+        "native": "Aruba",
+        "phone": "297",
+        "area": "193.0",
+        "population": "105,845",
+        "continent": "NA",
+        "capital": "Oranjestad",
+        "currency": "AWG",
+        "languages": [
+            "nl",
+            "pa"
+        ]
+    },
+    "AZ": {
+        "name": "Ozarbayjon",
+        "native": "Azərbaycan",
+        "area": "86,600.0",
+        "population": "9,942,334",
+        "phone": "994",
+        "continent": "AS",
+        "capital": "Baku",
+        "currency": "AZN",
+        "languages": [
+            "az"
+        ]
+    },
+    "BA": {
+        "name": "Bosniya va Gersogovina",
+        "native": "Bosna i Hercegovina",
+        "phone": "387",
+        "area": "51,129.0",
+        "population": "3,323,929",
+        "continent": "EU",
+        "capital": "Sarajevo",
+        "currency": "BAM",
+        "languages": [
+            "bs",
+            "hr",
+            "sr"
+        ]
+    },
+    "BB": {
+        "name": "Barbados",
+        "native": "Barbados",
+        "phone": "1246",
+        "area": "431.0",
+        "population": "286,641",
+        "continent": "NA",
+        "capital": "Bridgetown",
+        "currency": "BBD",
+        "languages": [
+            "en"
+        ]
+    },
+    "BD": {
+        "name": "Bangladesh",
+        "native": "Bangladesh",
+        "phone": "880",
+        "area": "144,000.0",
+        "population": "161,356,039",
+        "continent": "AS",
+        "capital": "Dhaka",
+        "currency": "BDT",
+        "languages": [
+            "bn"
+        ]
+    },
+    "BE": {
+        "name": "Belgiya",
+        "native": "België",
+        "phone": "32",
+        "area": "30,510.0",
+        "population": "11,422,068",
+        "continent": "EU",
+        "capital": "Brussels",
+        "currency": "EUR",
+        "languages": [
+            "nl",
+            "fr",
+            "de"
+        ]
+    },
+    "BF": {
+        "name": "Burkina Faso",
+        "native": "Burkina Faso",
+        "phone": "226",
+        "area": "274,200.0",
+        "population": "19,751,535",
+        "continent": "AF",
+        "capital": "Ouagadougou",
+        "currency": "XOF",
+        "languages": [
+            "fr",
+            "ff"
+        ]
+    },
+    "BG": {
+        "name": "Bolgariya",
+        "native": "България",
+        "phone": "359",
+        "area": "110,910.0",
+        "population": "7,000,039",
+        "continent": "EU",
+        "capital": "Sofia",
+        "currency": "BGN",
+        "languages": [
+            "bg"
+        ]
+    },
+    "BH": {
+        "name": "Bahrayn",
+        "native": "‏البحرين",
+        "phone": "973",
+        "area": "665.0",
+        "population": "1,569,439",
+        "continent": "AS",
+        "capital": "Manama",
+        "currency": "BHD",
+        "languages": [
+            "ar"
+        ]
+    },
+    "BI": {
+        "name": "Burundi",
+        "native": "Burundi",
+        "phone": "257",
+        "area": "27,830.0",
+        "population": "11,175,378",
+        "continent": "AF",
+        "capital": "Bujumbura",
+        "currency": "BIF",
+        "languages": [
+            "fr",
+            "rn"
+        ]
+    },
+    "BJ": {
+        "name": "Benin",
+        "native": "Bénin",
+        "phone": "229",
+        "area": "112,620.0",
+        "population": "11,485,048",
+        "continent": "AF",
+        "capital": "Porto-Novo",
+        "currency": "XOF",
+        "languages": [
+            "fr"
+        ]
+    },
+    "BN": {
+        "name": "Bruney",
+        "native": "Negara Brunei Darussalam",
+        "phone": "673",
+        "area": "5,770.0",
+        "population": "428,962",
+        "continent": "AS",
+        "capital": "Bandar Seri Begawan",
+        "currency": "BND",
+        "languages": [
+            "ms"
+        ]
+    },
+    "BO": {
+        "name": "Boliviya",
+        "native": "Bolivia",
+        "phone": "591",
+        "area": "1,098,580.0",
+        "population": "11,353,142",
+        "continent": "SA",
+        "capital": "Sucre",
+        "currency": "BOB,BOV",
+        "languages": [
+            "es",
+            "ay",
+            "qu"
+        ]
+    },
+    "BR": {
+        "name": "Braziliya",
+        "native": "Brasil",
+        "phone": "55",
+        "area": "8,511,965.0",
+        "population": "209,469,333",
+        "continent": "SA",
+        "capital": "Brasília",
+        "currency": "BRL",
+        "languages": [
+            "pt"
+        ]
+    },
+    "BS": {
+        "name": "Bagam Orollari",
+        "native": "Bahamas",
+        "phone": "1242",
+        "area": "13,940.0",
+        "population": "385,640",
+        "continent": "NA",
+        "capital": "Nassau",
+        "currency": "BSD",
+        "languages": [
+            "en"
+        ]
+    },
+    "BT": {
+        "name": "Butan",
+        "native": "ʼbrug-yul",
+        "phone": "975",
+        "area": "47,000.0",
+        "population": "754,394",
+        "continent": "AS",
+        "capital": "Thimphu",
+        "currency": "BTN,INR",
+        "languages": [
+            "dz"
+        ]
+    },
+    "BW": {
+        "name": "Botsvana",
+        "native": "Botswana",
+        "phone": "267",
+        "area": "600,370.0",
+        "population": "2,254,126",
+        "continent": "AF",
+        "capital": "Gaborone",
+        "currency": "BWP",
+        "languages": [
+            "en",
+            "tn"
+        ]
+    },
+    "BY": {
+        "name": "Belarusiya",
+        "native": "Белару́сь",
+        "phone": "375",
+        "area": "207,600.0",
+        "population": "9,485,386",
+        "continent": "EU",
+        "capital": "Minsk",
+        "currency": "BYN",
+        "languages": [
+            "be",
+            "ru"
+        ]
+    },
+    "BZ": {
+        "name": "Beliz",
+        "native": "Belize",
+        "phone": "501",
+        "area": "22,966.0",
+        "population": "383,071",
+        "continent": "NA",
+        "capital": "Belmopan",
+        "currency": "BZD",
+        "languages": [
+            "en",
+            "es"
+        ]
+    },
+    "CA": {
+        "name": "Kanada",
+        "native": "Canada",
+        "phone": "1",
+        "area": "9,984,670.0",
+        "population": "37,058,856",
+        "continent": "NA",
+        "capital": "Ottawa",
+        "currency": "CAD",
+        "languages": [
+            "en",
+            "fr"
+        ]
+    },
+    "CD": {
+        "name": "Kongo Demokratik Respublikasi",
+        "native": "République démocratique du Congo",
+        "phone": "243",
+        "area": "2,345,410.0",
+        "population": "84,068,091",
+        "continent": "AF",
+        "capital": "Kinshasa",
+        "currency": "CDF",
+        "languages": [
+            "fr",
+            "ln",
+            "kg",
+            "sw",
+            "lu"
+        ]
+    },
+    "CF": {
+        "name": "Markaziy Afrika Respublikasi",
+        "native": "Ködörösêse tî Bêafrîka",
+        "phone": "236",
+        "area": "622,984.0",
+        "population": "4,666,377",
+        "continent": "AF",
+        "capital": "Bangui",
+        "currency": "XAF",
+        "languages": [
+            "fr",
+            "sg"
+        ]
+    },
+    "CH": {
+        "name": "Shveytsariya",
+        "native": "Schweiz",
+        "phone": "41",
+        "area": "41,290.0",
+        "population": "8,516,543",
+        "continent": "EU",
+        "capital": "Bern",
+        "currency": "CHE,CHF,CHW",
+        "languages": [
+            "de",
+            "fr",
+            "it"
+        ]
+    },
+    "CL": {
+        "name": "Chili",
+        "native": "Chile",
+        "phone": "56",
+        "area": "756,950.0",
+        "population": "18,729,160",
+        "continent": "SA",
+        "capital": "Santiago",
+        "currency": "CLF,CLP",
+        "languages": [
+            "es"
+        ]
+    },
+    "CM": {
+        "name": "Kamerun",
+        "native": "Cameroon",
+        "phone": "237",
+        "area": "475,440.0",
+        "population": "25,216,237",
+        "continent": "AF",
+        "capital": "Yaoundé",
+        "currency": "XAF",
+        "languages": [
+            "en",
+            "fr"
+        ]
+    },
+    "CN": {
+        "name": "Xitoy",
+        "native": "中国",
+        "phone": "86",
+        "area": "9,596,960.0",
+        "population": "1,392,730,000",
+        "continent": "AS",
+        "capital": "Beijing",
+        "currency": "CNY",
+        "languages": [
+            "zh"
+        ]
+    },
+    "CO": {
+        "name": "Kolumbiya",
+        "native": "Colombia",
+        "phone": "57",
+        "area": "1,138,910.0",
+        "population": "49,648,685",
+        "continent": "SA",
+        "capital": "Bogotá",
+        "currency": "COP",
+        "languages": [
+            "es"
+        ]
+    },
+    "CR": {
+        "name": "Kosta Rika",
+        "native": "Costa Rica",
+        "phone": "506",
+        "area": "51,100.0",
+        "population": "4,999,441",
+        "continent": "NA",
+        "capital": "San José",
+        "currency": "CRC",
+        "languages": [
+            "es"
+        ]
+    },
+    "CU": {
+        "name": "Kuba",
+        "native": "Cuba",
+        "phone": "53",
+        "area": "110,860.0",
+        "population": "11,338,138",
+        "continent": "NA",
+        "capital": "Havana",
+        "currency": "CUC,CUP",
+        "languages": [
+            "es"
+        ]
+    },
+    "CV": {
+        "name": "Kabo Verde",
+        "native": "Cabo Verde",
+        "phone": "238",
+        "area": "4,033.0",
+        "population": "543,767",
+        "continent": "AF",
+        "capital": "Praia",
+        "currency": "CVE",
+        "languages": [
+            "pt"
+        ]
+    },
+    "CY": {
+        "name": "Kipr",
+        "native": "Κύπρος",
+        "phone": "357",
+        "area": "9,250.0",
+        "population": "1,189,265",
+        "continent": "EU",
+        "capital": "Nicosia",
+        "currency": "EUR",
+        "languages": [
+            "el",
+            "tr",
+            "hy"
+        ]
+    },
+    "CZ": {
+        "name": "Chexiya",
+        "native": "Česká republika",
+        "phone": "420",
+        "area": "78,866.0",
+        "population": "10,625,695",
+        "continent": "EU",
+        "capital": "Prague",
+        "currency": "CZK",
+        "languages": [
+            "cs",
+            "sk"
+        ]
+    },
+    "DE": {
+        "name": "Germaniya",
+        "native": "Deutschland",
+        "phone": "49",
+        "area": "357,021.0",
+        "population": "82,927,922",
+        "continent": "EU",
+        "capital": "Berlin",
+        "currency": "EUR",
+        "languages": [
+            "de"
+        ]
+    },
+    "DJ": {
+        "name": "Jibuti",
+        "native": "Djibouti",
+        "phone": "253",
+        "area": "23,000.0",
+        "population": "958,920",
+        "continent": "AF",
+        "capital": "Djibouti",
+        "currency": "DJF",
+        "languages": [
+            "fr",
+            "ar"
+        ]
+    },
+    "DK": {
+        "name": "Daniya",
+        "native": "Danmark",
+        "phone": "45",
+        "area": "43,094.0",
+        "population": "5,797,446",
+        "continent": "EU",
+        "capital": "Copenhagen",
+        "currency": "DKK",
+        "languages": [
+            "da"
+        ]
+    },
+    "DM": {
+        "name": "Dominika",
+        "native": "Dominica",
+        "phone": "1767",
+        "area": "754.0",
+        "population": "71,625",
+        "continent": "NA",
+        "capital": "Roseau",
+        "currency": "XCD",
+        "languages": [
+            "en"
+        ]
+    },
+    "DO": {
+        "name": "Dominikan Respublikasi",
+        "native": "República Dominicana",
+        "phone": "1809,1829,1849",
+        "area": "48,730.0",
+        "population": "10,627,165",
+        "continent": "NA",
+        "capital": "Santo Domingo",
+        "currency": "DOP",
+        "languages": [
+            "es"
+        ]
+    },
+    "DZ": {
+        "name": "Jazoir",
+        "native": "الجزائر",
+        "phone": "213",
+        "area": "2,381,740.0",
+        "population": "42,228,429",
+        "continent": "AF",
+        "capital": "Algiers",
+        "currency": "DZD",
+        "languages": [
+            "ar"
+        ]
+    },
+    "EC": {
+        "name": "Ekvador",
+        "native": "Ecuador",
+        "phone": "593",
+        "area": "283,560.0",
+        "population": "17,084,357",
+        "continent": "SA",
+        "capital": "Quito",
+        "currency": "USD",
+        "languages": [
+            "es"
+        ]
+    },
+    "EE": {
+        "name": "Estoniya",
+        "native": "Eesti",
+        "phone": "372",
+        "area": "45,226.0",
+        "population": "1,320,884",
+        "continent": "EU",
+        "capital": "Tallinn",
+        "currency": "EUR",
+        "languages": [
+            "et"
+        ]
+    },
+    "EG": {
+        "name": "Misr",
+        "native": "مصر‎",
+        "phone": "20",
+        "area": "1,001,450.0",
+        "population": "98,423,595",
+        "continent": "AF",
+        "capital": "Cairo",
+        "currency": "EGP",
+        "languages": [
+            "ar"
+        ]
+    },
+    "ER": {
+        "name": "Eritreya",
+        "native": "ኤርትራ",
+        "phone": "291",
+        "area": "121,320.0",
+        "population": "0",
+        "continent": "AF",
+        "capital": "Asmara",
+        "currency": "ERN",
+        "languages": [
+            "ti",
+            "ar",
+            "en"
+        ]
+    },
+    "ES": {
+        "name": "Ispaniya",
+        "native": "España",
+        "phone": "34",
+        "area": "504,782.0",
+        "population": "46,723,749",
+        "continent": "EU",
+        "capital": "Madrid",
+        "currency": "EUR",
+        "languages": [
+            "es",
+            "eu",
+            "ca",
+            "gl",
+            "oc"
+        ]
+    },
+    "ET": {
+        "name": "Efiopiya",
+        "native": "ኢትዮጵያ",
+        "phone": "251",
+        "area": "1,127,127.0",
+        "population": "109,224,559",
+        "continent": "AF",
+        "capital": "Addis Ababa",
+        "currency": "ETB",
+        "languages": [
+            "am"
+        ]
+    },
+    "FI": {
+        "name": "Finlandiya",
+        "native": "Suomi",
+        "phone": "358",
+        "area": "337,030.0",
+        "population": "5,518,050",
+        "continent": "EU",
+        "capital": "Helsinki",
+        "currency": "EUR",
+        "languages": [
+            "fi",
+            "sv"
+        ]
+    },
+    "FJ": {
+        "name": "Fiji",
+        "native": "Fiji",
+        "phone": "679",
+        "area": "18,270.0",
+        "population": "883,483",
+        "continent": "OC",
+        "capital": "Suva",
+        "currency": "FJD",
+        "languages": [
+            "en",
+            "fj",
+            "hi",
+            "ur"
+        ]
+    },
+    "FR": {
+        "name": "Fransiya",
+        "native": "France",
+        "phone": "33",
+        "area": "547,030.0",
+        "population": "66,987,244",
+        "continent": "EU",
+        "capital": "Paris",
+        "currency": "EUR",
+        "languages": [
+            "fr"
+        ]
+    },
+    "GA": {
+        "name": "Gabon",
+        "native": "Gabon",
+        "phone": "241",
+        "area": "267,667.0",
+        "population": "2,119,275",
+        "continent": "AF",
+        "capital": "Libreville",
+        "currency": "XAF",
+        "languages": [
+            "fr"
+        ]
+    },
+    "GB": {
+        "name": "Buyuk Britaniya",
+        "native": "United Kingdom",
+        "phone": "44",
+        "area": "244,820.0",
+        "population": "66,488,991",
+        "continent": "EU",
+        "capital": "London",
+        "currency": "GBP",
+        "languages": [
+            "en"
+        ]
+    },
+    "GD": {
+        "name": "Grenada",
+        "native": "Grenada",
+        "phone": "1473",
+        "area": "344.0",
+        "population": "111,454",
+        "continent": "NA",
+        "capital": "St. George's",
+        "currency": "XCD",
+        "languages": [
+            "en"
+        ]
+    },
+    "GE": {
+        "name": "Gruziya",
+        "native": "საქართველო",
+        "phone": "995",
+        "area": "69,700.0",
+        "population": "3,731,000",
+        "continent": "AS",
+        "capital": "Tbilisi",
+        "currency": "GEL",
+        "languages": [
+            "ka"
+        ]
+    },
+    "GH": {
+        "name": "Gana",
+        "native": "Ghana",
+        "phone": "233",
+        "area": "239,460.0",
+        "population": "29,767,108",
+        "continent": "AF",
+        "capital": "Accra",
+        "currency": "GHS",
+        "languages": [
+            "en"
+        ]
+    },
+    "GM": {
+        "name": "Gambiya",
+        "native": "Gambia",
+        "phone": "220",
+        "area": "11,300.0",
+        "population": "2,280,102",
+        "continent": "AF",
+        "capital": "Banjul",
+        "currency": "GMD",
+        "languages": [
+            "en"
+        ]
+    },
+    "GN": {
+        "name": "Gvineya",
+        "native": "Guinée",
+        "phone": "224",
+        "area": "245,857.0",
+        "population": "12,414,318",
+        "continent": "AF",
+        "capital": "Conakry",
+        "currency": "GNF",
+        "languages": [
+            "fr",
+            "ff"
+        ]
+    },
+    "GQ": {
+        "name": "Ekvatorial Gvineya",
+        "native": "Guinea Ecuatorial",
+        "phone": "240",
+        "area": "28,051.0",
+        "continent": "AF",
+        "population": "1,308,974",
+        "capital": "Malabo",
+        "currency": "XAF",
+        "languages": [
+            "es",
+            "fr"
+        ]
+    },
+    "GR": {
+        "name": "Gretsiya",
+        "native": "Ελλάδα",
+        "phone": "30",
+        "area": "131,940.0",
+        "population": "10,727,668",
+        "continent": "EU",
+        "capital": "Athens",
+        "currency": "EUR",
+        "languages": [
+            "el"
+        ]
+    },
+    "GT": {
+        "name": "Gvatemala",
+        "native": "Guatemala",
+        "phone": "502",
+        "area": "108,890.0",
+        "population": "17,247,807",
+        "continent": "NA",
+        "capital": "Guatemala City",
+        "currency": "GTQ",
+        "languages": [
+            "es"
+        ]
+    },
+    "GW": {
+        "name": "Gvineya Bisau",
+        "native": "Guiné-Bissau",
+        "phone": "245",
+        "area": "36,120.0",
+        "population": "1,874,309",
+        "continent": "AF",
+        "capital": "Bissau",
+        "currency": "XOF",
+        "languages": [
+            "pt"
+        ]
+    },
+    "GY": {
+        "name": "Gayana",
+        "native": "Guyana",
+        "phone": "592",
+        "area": "214,970.0",
+        "population": "779,004",
+        "continent": "SA",
+        "capital": "Georgetown",
+        "currency": "GYD",
+        "languages": [
+            "en"
+        ]
+    },
+    "HN": {
+        "name": "Gonduras",
+        "native": "Honduras",
+        "phone": "504",
+        "area": "112,090.0",
+        "population": "9,587,522",
+        "continent": "NA",
+        "capital": "Tegucigalpa",
+        "currency": "HNL",
+        "languages": [
+            "es"
+        ]
+    },
+    "HR": {
+        "name": "Xorvatiya",
+        "native": "Hrvatska",
+        "phone": "385",
+        "area": "56,542.0",
+        "population": "4,089,400",
+        "continent": "EU",
+        "capital": "Zagreb",
+        "currency": "HRK",
+        "languages": [
+            "hr"
+        ]
+    },
+    "HT": {
+        "name": "Gaiti",
+        "native": "Haïti",
+        "phone": "509",
+        "area": "27,750.0",
+        "population": "11,123,176",
+        "continent": "NA",
+        "capital": "Port-au-Prince",
+        "currency": "HTG,USD",
+        "languages": [
+            "fr",
+            "ht"
+        ]
+    },
+    "HU": {
+        "name": "Vengriya",
+        "native": "Magyarország",
+        "phone": "36",
+        "area": "93,030.0",
+        "population": "9,768,785",
+        "continent": "EU",
+        "capital": "Budapest",
+        "currency": "HUF",
+        "languages": [
+            "hu"
+        ]
+    },
+    "ID": {
+        "name": "Indoneziya",
+        "native": "Indonesia",
+        "phone": "62",
+        "area": "1,919,440.0",
+        "population": "267,663,435",
+        "continent": "AS",
+        "capital": "Jakarta",
+        "currency": "IDR",
+        "languages": [
+            "id"
+        ]
+    },
+    "IE": {
+        "name": "Irlandiya",
+        "native": "Éire",
+        "phone": "353",
+        "area": "70,280.0",
+        "population": "4,853,506",
+        "continent": "EU",
+        "capital": "Dublin",
+        "currency": "EUR",
+        "languages": [
+            "ga",
+            "en"
+        ]
+    },
+    "IL": {
+        "name": "Isroil",
+        "native": "יִשְׂרָאֵל",
+        "phone": "972",
+        "area": "20,770.0",
+        "population": "8,883,800",
+        "continent": "AS",
+        "capital": "Jerusalem",
+        "currency": "ILS",
+        "languages": [
+            "he",
+            "ar"
+        ]
+    },
+    "IN": {
+        "name": "Hindiston",
+        "native": "भारत",
+        "phone": "91",
+        "area": "3,287,590.0",
+        "population": "1,352,617,328",
+        "continent": "AS",
+        "capital": "New Delhi",
+        "currency": "INR",
+        "languages": [
+            "hi",
+            "en"
+        ]
+    },
+    "IQ": {
+        "name": "Iroq",
+        "native": "العراق",
+        "phone": "964",
+        "area": "437,072.0",
+        "population": "38,433,600",
+        "continent": "AS",
+        "capital": "Baghdad",
+        "currency": "IQD",
+        "languages": [
+            "ar",
+            "ku"
+        ]
+    },
+    "IR": {
+        "name": "Eron",
+        "native": "ایران",
+        "phone": "98",
+        "area": "1,648,000.0",
+        "population": "81,800,269",
+        "continent": "AS",
+        "capital": "Tehran",
+        "currency": "IRR",
+        "languages": [
+            "fa"
+        ]
+    },
+    "IS": {
+        "name": "Islandiya",
+        "native": "Ísland",
+        "phone": "354",
+        "area": "103,000.0",
+        "population": "353,574",
+        "continent": "EU",
+        "capital": "Reykjavik",
+        "currency": "ISK",
+        "languages": [
+            "is"
+        ]
+    },
+    "IT": {
+        "name": "Italiya",
+        "native": "Italia",
+        "phone": "39",
+        "area": "301,230.0",
+        "population": "60,431,283",
+        "continent": "EU",
+        "capital": "Rome",
+        "currency": "EUR",
+        "languages": [
+            "it"
+        ]
+    },
+    "JM": {
+        "name": "Yamayka",
+        "native": "Jamaica",
+        "phone": "1876",
+        "area": "10,991.0",
+        "population": "2,934,855",
+        "continent": "NA",
+        "capital": "Kingston",
+        "currency": "JMD",
+        "languages": [
+            "en"
+        ]
+    },
+    "JO": {
+        "name": "Iordaniya",
+        "native": "الأردن",
+        "phone": "962",
+        "area": "92,300.0",
+        "population": "9,956,011",
+        "continent": "AS",
+        "capital": "Amman",
+        "currency": "JOD",
+        "languages": [
+            "ar"
+        ]
+    },
+    "JP": {
+        "name": "Yaponiya",
+        "native": "日本",
+        "phone": "81",
+        "area": "377,835.0",
+        "population": "126,529,100",
+        "continent": "AS",
+        "capital": "Tokyo",
+        "currency": "JPY",
+        "languages": [
+            "ja"
+        ]
+    },
+    "KE": {
+        "name": "Keniya",
+        "native": "Kenya",
+        "phone": "254",
+        "area": "582,650.0",
+        "population": "51,393,010",
+        "continent": "AF",
+        "capital": "Nairobi",
+        "currency": "KES",
+        "languages": [
+            "en",
+            "sw"
+        ]
+    },
+    "KG": {
+        "name": "Qirg'iziston",
+        "native": "Кыргызстан",
+        "phone": "996",
+        "area": "198,500.0",
+        "population": "6,315,800",
+        "continent": "AS",
+        "capital": "Bishkek",
+        "currency": "KGS",
+        "languages": [
+            "ky",
+            "ru"
+        ]
+    },
+    "KH": {
+        "name": "Kambodja",
+        "native": "Kâmpŭchéa",
+        "phone": "855",
+        "area": "181,040.0",
+        "population": "16,249,798",
+        "continent": "AS",
+        "capital": "Phnom Penh",
+        "currency": "KHR",
+        "languages": [
+            "km"
+        ]
+    },
+    "KI": {
+        "name": "Kiribati",
+        "native": "Kiribati",
+        "phone": "686",
+        "area": "811.0",
+        "population": "115,847",
+        "continent": "OC",
+        "capital": "South Tarawa",
+        "currency": "AUD",
+        "languages": [
+            "en"
+        ]
+    },
+    "KM": {
+        "name": "Komor Orollari",
+        "native": "Komori",
+        "phone": "269",
+        "area": "2,170.0",
+        "population": "832,322",
+        "continent": "AF",
+        "capital": "Moroni",
+        "currency": "KMF",
+        "languages": [
+            "ar",
+            "fr"
+        ]
+    },
+    "KP": {
+        "name": "Shimoliy Koreya",
+        "native": "북한",
+        "phone": "850",
+        "area": "120,540.0",
+        "population": "25,549,819",
+        "continent": "AS",
+        "capital": "Pyongyang",
+        "currency": "KPW",
+        "languages": [
+            "ko"
+        ]
+    },
+    "KR": {
+        "name": "Janubiy Koreya",
+        "native": "대한민국",
+        "phone": "82",
+        "area": "98,480.0",
+        "population": "51,635,256",
+        "continent": "AS",
+        "capital": "Seoul",
+        "currency": "KRW",
+        "languages": [
+            "ko"
+        ]
+    },
+    "KW": {
+        "name": "Quvayt",
+        "native": "الكويت",
+        "phone": "965",
+        "area": "17,820.0",
+        "population": "4,137,309",
+        "continent": "AS",
+        "capital": "Kuwait City",
+        "currency": "KWD",
+        "languages": [
+            "ar"
+        ]
+    },
+    "KZ": {
+        "name": "Qozog'iston",
+        "native": "Қазақстан",
+        "phone": "76,77",
+        "area": "2,717,300.0",
+        "population": "18,276,499",
+        "continent": "AS",
+        "capital": "Astana",
+        "currency": "KZT",
+        "languages": [
+            "kk",
+            "ru"
+        ]
+    },
+    "LA": {
+        "name": "Laos",
+        "native": "ສປປລາວ",
+        "phone": "856",
+        "area": "236,800.0",
+        "population": "7,061,507",
+        "continent": "AS",
+        "capital": "Vientiane",
+        "currency": "LAK",
+        "languages": [
+            "lo"
+        ]
+    },
+    "LB": {
+        "name": "Livan",
+        "native": "لبنان",
+        "phone": "961",
+        "area": "10,400.0",
+        "population": "6,848,925",
+        "continent": "AS",
+        "capital": "Beirut",
+        "currency": "LBP",
+        "languages": [
+            "ar",
+            "fr"
+        ]
+    },
+    "LC": {
+        "name": "Santa Lusiya",
+        "native": "Saint Lucia",
+        "phone": "1758",
+        "area": "616.0",
+        "population": "181,889",
+        "continent": "NA",
+        "capital": "Castries",
+        "currency": "XCD",
+        "languages": [
+            "en"
+        ]
+    },
+    "LI": {
+        "name": "Lixtenshteyn",
+        "native": "Liechtenstein",
+        "phone": "423",
+        "area": "160.0",
+        "population": "37,910",
+        "continent": "EU",
+        "capital": "Vaduz",
+        "currency": "CHF",
+        "languages": [
+            "de"
+        ]
+    },
+    "LK": {
+        "name": "Shri Lanka",
+        "native": "śrī laṃkāva",
+        "phone": "94",
+        "area": "65,610.0",
+        "population": "21,670,000",
+        "continent": "AS",
+        "capital": "Colombo",
+        "currency": "LKR",
+        "languages": [
+            "si",
+            "ta"
+        ]
+    },
+    "LR": {
+        "name": "Liberiya",
+        "native": "Liberia",
+        "phone": "231",
+        "area": "111,370.0",
+        "population": "4,818,977",
+        "continent": "AF",
+        "capital": "Monrovia",
+        "currency": "LRD",
+        "languages": [
+            "en"
+        ]
+    },
+    "LS": {
+        "name": "Lesoto",
+        "native": "Lesotho",
+        "phone": "266",
+        "area": "30,355.0",
+        "population": "2,108,132",
+        "continent": "AF",
+        "capital": "Maseru",
+        "currency": "LSL,ZAR",
+        "languages": [
+            "en",
+            "st"
+        ]
+    },
+    "LT": {
+        "name": "Litva",
+        "native": "Lietuva",
+        "phone": "370",
+        "area": "65,200.0",
+        "population": "2,789,533",
+        "continent": "EU",
+        "capital": "Vilnius",
+        "currency": "EUR",
+        "languages": [
+            "lt"
+        ]
+    },
+    "LU": {
+        "name": "Lyuksemburg",
+        "native": "Luxembourg",
+        "phone": "352",
+        "area": "2,586.0",
+        "population": "607,728",
+        "continent": "EU",
+        "capital": "Luxembourg",
+        "currency": "EUR",
+        "languages": [
+            "fr",
+            "de",
+            "lb"
+        ]
+    },
+    "LV": {
+        "name": "Latviya",
+        "native": "Latvija",
+        "phone": "371",
+        "area": "64,589.0",
+        "population": "1,926,542",
+        "continent": "EU",
+        "capital": "Riga",
+        "currency": "EUR",
+        "languages": [
+            "lv"
+        ]
+    },
+    "LY": {
+        "name": "Liviya",
+        "native": "‏ليبيا",
+        "phone": "218",
+        "continent": "AF",
+        "area": "1,759,540.0",
+        "capital": "Tripoli",
+        "population": "6,678,567",
+        "currency": "LYD",
+        "languages": [
+            "ar"
+        ]
+    },
+    "MA": {
+        "name": "Morokko",
+        "native": "المغرب",
+        "phone": "212",
+        "area": "446,550.0",
+        "population": "36,029,138",
+        "continent": "AF",
+        "capital": "Rabat",
+        "currency": "MAD",
+        "languages": [
+            "ar"
+        ]
+    },
+    "MC": {
+        "name": "Monako",
+        "native": "Monaco",
+        "phone": "377",
+        "area": "1.9",
+        "population": "38,682",
+        "continent": "EU",
+        "capital": "Monaco",
+        "currency": "EUR",
+        "languages": [
+            "fr"
+        ]
+    },
+    "MD": {
+        "name": "Moldova",
+        "native": "Moldova",
+        "phone": "373",
+        "area": "33,843.0",
+        "population": "3,545,883",
+        "continent": "EU",
+        "capital": "Chișinău",
+        "currency": "MDL",
+        "languages": [
+            "ro"
+        ]
+    },
+    "ME": {
+        "name": "Montenegro",
+        "native": "Црна Гора",
+        "phone": "382",
+        "area": "14,026.0",
+        "population": "622,345",
+        "continent": "EU",
+        "capital": "Podgorica",
+        "currency": "EUR",
+        "languages": [
+            "sr",
+            "bs",
+            "sq",
+            "hr"
+        ]
+    },
+    "MG": {
+        "name": "Madagaskar",
+        "native": "Madagasikara",
+        "phone": "261",
+        "area": "587,040.0",
+        "population": "26,262,368",
+        "continent": "AF",
+        "capital": "Antananarivo",
+        "currency": "MGA",
+        "languages": [
+            "fr",
+            "mg"
+        ]
+    },
+    "MH": {
+        "name": "Marshall Orollari",
+        "native": "M̧ajeļ",
+        "phone": "692",
+        "area": "181.3",
+        "population": "58,413",
+        "continent": "OC",
+        "capital": "Majuro",
+        "currency": "USD",
+        "languages": [
+            "en",
+            "mh"
+        ]
+    },
+    "ML": {
+        "name": "Mali",
+        "native": "Mali",
+        "phone": "223",
+        "area": "1,240,000.0",
+        "population": "19,077,690",
+        "continent": "AF",
+        "capital": "Bamako",
+        "currency": "XOF",
+        "languages": [
+            "fr"
+        ]
+    },
+    "MM": {
+        "name": "Birma",
+        "native": "မြန်မာ",
+        "phone": "95",
+        "area": "678,500.0",
+        "population": "53,708,395",
+        "continent": "AS",
+        "capital": "Naypyidaw",
+        "currency": "MMK",
+        "languages": [
+            "my"
+        ]
+    },
+    "MN": {
+        "name": "Mongoliya",
+        "native": "Монгол улс",
+        "phone": "976",
+        "area": "1,565,000.0",
+        "population": "3,170,208",
+        "continent": "AS",
+        "capital": "Ulan Bator",
+        "currency": "MNT",
+        "languages": [
+            "mn"
+        ]
+    },
+    "MO": {
+        "name": "Makao",
+        "native": "澳門",
+        "phone": "853",
+        "area": "254.0",
+        "population": "631,636",
+        "continent": "AS",
+        "capital": "",
+        "currency": "MOP",
+        "languages": [
+            "zh",
+            "pt"
+        ]
+    },
+    "MR": {
+        "name": "Mavritaniya",
+        "native": "موريتانيا",
+        "phone": "222",
+        "area": "1,030,700.0",
+        "population": "4,403,319",
+        "continent": "AF",
+        "capital": "Nouakchott",
+        "currency": "MRU",
+        "languages": [
+            "ar"
+        ]
+    },
+    "MT": {
+        "name": "Malta",
+        "native": "Malta",
+        "phone": "356",
+        "area": "316.0",
+        "population": "483,530",
+        "continent": "EU",
+        "capital": "Valletta",
+        "currency": "EUR",
+        "languages": [
+            "mt",
+            "en"
+        ]
+    },
+    "MU": {
+        "name": "Mavrikiy",
+        "native": "Maurice",
+        "phone": "230",
+        "area": "2,040.0",
+        "population": "1,265,303",
+        "continent": "AF",
+        "capital": "Port Louis",
+        "currency": "MUR",
+        "languages": [
+            "en"
+        ]
+    },
+    "MV": {
+        "name": "Maldiv Orollari",
+        "native": "Maldives",
+        "phone": "960",
+        "area": "300.0",
+        "population": "515,696",
+        "continent": "AS",
+        "capital": "Malé",
+        "currency": "MVR",
+        "languages": [
+            "dv"
+        ]
+    },
+    "MW": {
+        "name": "Malavi",
+        "native": "Malawi",
+        "phone": "265",
+        "area": "118,480.0",
+        "population": "17,563,749",
+        "continent": "AF",
+        "capital": "Lilongwe",
+        "currency": "MWK",
+        "languages": [
+            "en",
+            "ny"
+        ]
+    },
+    "MX": {
+        "name": "Meksika",
+        "native": "México",
+        "phone": "52",
+        "area": "1,972,550.0",
+        "population": "126,190,788",
+        "continent": "NA",
+        "capital": "Mexico City",
+        "currency": "MXN",
+        "languages": [
+            "es"
+        ]
+    },
+    "MY": {
+        "name": "Malayziya",
+        "native": "Malaysia",
+        "phone": "60",
+        "continent": "AS",
+        "area": "329,750.0",
+        "population": "31,528,585",
+        "capital": "Kuala Lumpur",
+        "currency": "MYR",
+        "languages": [
+            "ms"
+        ]
+    },
+    "MZ": {
+        "name": "Mozambik",
+        "native": "Moçambique",
+        "phone": "258",
+        "continent": "AF",
+        "area": "801,590.0",
+        "population": "29,495,962",
+        "capital": "Maputo",
+        "currency": "MZN",
+        "languages": [
+            "pt"
+        ]
+    },
+    "NA": {
+        "name": "Namibiya",
+        "native": "Namibia",
+        "phone": "264",
+        "area": "825,418.0",
+        "continent": "AF",
+        "population": "2,448,255",
+        "capital": "Windhoek",
+        "currency": "NAD,ZAR",
+        "languages": [
+            "en",
+            "af"
+        ]
+    },
+    "NE": {
+        "name": "Niger",
+        "native": "Niger",
+        "phone": "227",
+        "area": "1,267,000.0",
+        "population": "22,442,948",
+        "continent": "AF",
+        "capital": "Niamey",
+        "currency": "XOF",
+        "languages": [
+            "fr"
+        ]
+    },
+    "NG": {
+        "name": "Nigeriya",
+        "native": "Nigeria",
+        "phone": "234",
+        "area": "923,768.0",
+        "population": "195,874,740",
+        "continent": "AF",
+        "capital": "Abuja",
+        "currency": "NGN",
+        "languages": [
+            "en"
+        ]
+    },
+    "NI": {
+        "name": "Nikaragua",
+        "native": "Nicaragua",
+        "phone": "505",
+        "area": "129,494.0",
+        "population": "6,465,513",
+        "continent": "NA",
+        "capital": "Managua",
+        "currency": "NIO",
+        "languages": [
+            "es"
+        ]
+    },
+    "NL": {
+        "name": "Niderlandiya",
+        "native": "Nederland",
+        "phone": "31",
+        "area": "41,526.0",
+        "population": "17,231,017",
+        "continent": "EU",
+        "capital": "Amsterdam",
+        "currency": "EUR",
+        "languages": [
+            "nl"
+        ]
+    },
+    "NO": {
+        "name": "Norvegiya",
+        "native": "Norge",
+        "phone": "47",
+        "area": "324,220.0",
+        "population": "5,314,336",
+        "continent": "EU",
+        "capital": "Oslo",
+        "currency": "NOK",
+        "languages": [
+            "no",
+            "nb",
+            "nn"
+        ]
+    },
+    "NP": {
+        "name": "Nepal",
+        "native": "नपल",
+        "phone": "977",
+        "area": "140,800.0",
+        "population": "28,087,871",
+        "continent": "AS",
+        "capital": "Kathmandu",
+        "currency": "NPR",
+        "languages": [
+            "ne"
+        ]
+    },
+    "NR": {
+        "name": "Nauru",
+        "native": "Nauru",
+        "phone": "674",
+        "area": "21.0",
+        "population": "12,704",
+        "continent": "OC",
+        "capital": "Yaren",
+        "currency": "AUD",
+        "languages": [
+            "en",
+            "na"
+        ]
+    },
+    "NZ": {
+        "name": "Yangi Zelandiya",
+        "native": "New Zealand",
+        "phone": "64",
+        "area": "268,680.0",
+        "continent": "OC",
+        "population": "4,885,500",
+        "capital": "Wellington",
+        "currency": "NZD",
+        "languages": [
+            "en",
+            "mi"
+        ]
+    },
+    "OM": {
+        "name": "Ummon",
+        "native": "عمان",
+        "phone": "968",
+        "area": "212,460.0",
+        "continent": "AS",
+        "population": "4,829,483",
+        "capital": "Muscat",
+        "currency": "OMR",
+        "languages": [
+            "ar"
+        ]
+    },
+    "PA": {
+        "name": "Panama",
+        "native": "Panamá",
+        "phone": "507",
+        "area": "78,200.0",
+        "continent": "NA",
+        "population": "4,176,873",
+        "capital": "Panama City",
+        "currency": "PAB,USD",
+        "languages": [
+            "es"
+        ]
+    },
+    "PE": {
+        "name": "Peru",
+        "native": "Perú",
+        "phone": "51",
+        "area": "1,285,220.0",
+        "continent": "SA",
+        "population": "31,989,256",
+        "capital": "Lima",
+        "currency": "PEN",
+        "languages": [
+            "es"
+        ]
+    },
+    "PG": {
+        "name": "Papua Yangi Gvineya",
+        "native": "Papua Niugini",
+        "phone": "675",
+        "area": "462,840.0",
+        "population": "8,606,316",
+        "continent": "OC",
+        "capital": "Port Moresby",
+        "currency": "PGK",
+        "languages": [
+            "en"
+        ]
+    },
+    "PH": {
+        "name": "Filippin",
+        "native": "Pilipinas",
+        "phone": "63",
+        "area": "300,000.0",
+        "population": "106,651,922",
+        "continent": "AS",
+        "capital": "Manila",
+        "currency": "PHP",
+        "languages": [
+            "en"
+        ]
+    },
+    "PK": {
+        "name": "Pokiston",
+        "native": "Pakistan",
+        "phone": "92",
+        "area": "803,940.0",
+        "population": "212,215,030",
+        "continent": "AS",
+        "capital": "Islamabad",
+        "currency": "PKR",
+        "languages": [
+            "en",
+            "ur"
+        ]
+    },
+    "PL": {
+        "name": "Polsha",
+        "native": "Polska",
+        "phone": "48",
+        "area": "312,685.0",
+        "continent": "EU",
+        "population": "37,978,548",
+        "capital": "Warsaw",
+        "currency": "PLN",
+        "languages": [
+            "pl"
+        ]
+    },
+    "PS": {
+        "name": "Falastin",
+        "native": "فلسطين",
+        "phone": "970",
+        "continent": "AS",
+        "area": "5,970.0",
+        "population": "4,569,087",
+        "capital": "Ramallah",
+        "currency": "ILS",
+        "languages": [
+            "ar"
+        ]
+    },
+    "PT": {
+        "name": "Portugaliya",
+        "native": "Portugal",
+        "phone": "351",
+        "area": "92,391.0",
+        "population": "10,281,762",
+        "continent": "EU",
+        "capital": "Lisbon",
+        "currency": "EUR",
+        "languages": [
+            "pt"
+        ]
+    },
+    "PW": {
+        "name": "Palau",
+        "native": "Palau",
+        "phone": "680",
+        "area": "458.0",
+        "population": "17,907",
+        "continent": "OC",
+        "capital": "Ngerulmud",
+        "currency": "USD",
+        "languages": [
+            "en"
+        ]
+    },
+    "PY": {
+        "name": "Paragvay",
+        "native": "Paraguay",
+        "phone": "595",
+        "area": "406,750.0",
+        "population": "6,956,071",
+        "continent": "SA",
+        "capital": "Asunción",
+        "currency": "PYG",
+        "languages": [
+            "es",
+            "gn"
+        ]
+    },
+    "QA": {
+        "name": "Qatar",
+        "native": "قطر",
+        "phone": "974",
+        "area": "11,437.0",
+        "population": "2,781,677",
+        "continent": "AS",
+        "capital": "Doha",
+        "currency": "QAR",
+        "languages": [
+            "ar"
+        ]
+    },
+    "RO": {
+        "name": "Ruminiya",
+        "native": "România",
+        "phone": "40",
+        "area": "237,500.0",
+        "population": "19,473,936",
+        "continent": "EU",
+        "capital": "Bucharest",
+        "currency": "RON",
+        "languages": [
+            "ro"
+        ]
+    },
+    "RS": {
+        "name": "Serbiya",
+        "native": "Србија",
+        "phone": "381",
+        "area": "88,361.0",
+        "population": "6,982,084",
+        "continent": "EU",
+        "capital": "Belgrade",
+        "currency": "RSD",
+        "languages": [
+            "sr"
+        ]
+    },
+    "RU": {
+        "name": "Rossiya",
+        "native": "Россия",
+        "phone": "7",
+        "area": "17,100,000.0",
+        "population": "144,478,050",
+        "continent": "EU",
+        "capital": "Moscow",
+        "currency": "RUB",
+        "languages": [
+            "ru"
+        ]
+    },
+    "RW": {
+        "name": "Ruanda",
+        "native": "Rwanda",
+        "phone": "250",
+        "area": "26,338.0",
+        "population": "12,301,939",
+        "continent": "AF",
+        "capital": "Kigali",
+        "currency": "RWF",
+        "languages": [
+            "rw",
+            "en",
+            "fr"
+        ]
+    },
+    "SA": {
+        "name": "Saudiya Arabistoni",
+        "native": "العربية السعودية",
+        "phone": "966",
+        "area": "1,960,582.0",
+        "population": "33,699,947",
+        "continent": "AS",
+        "capital": "Riyadh",
+        "currency": "SAR",
+        "languages": [
+            "ar"
+        ]
+    },
+    "SB": {
+        "name": "Solomon Orollari",
+        "native": "Solomon Islands",
+        "phone": "677",
+        "area": "28,450.0",
+        "population": "652,858",
+        "continent": "OC",
+        "capital": "Honiara",
+        "currency": "SBD",
+        "languages": [
+            "en"
+        ]
+    },
+    "SC": {
+        "name": "Seyshell Orollari",
+        "native": "Seychelles",
+        "phone": "248",
+        "area": "455.0",
+        "population": "96,762",
+        "continent": "AF",
+        "capital": "Victoria",
+        "currency": "SCR",
+        "languages": [
+            "fr",
+            "en"
+        ]
+    },
+    "SD": {
+        "name": "Sudan",
+        "native": "السودان",
+        "phone": "249",
+        "area": "1,861,484.0",
+        "population": "41,801,533",
+        "continent": "AF",
+        "capital": "Khartoum",
+        "currency": "SDG",
+        "languages": [
+            "ar",
+            "en"
+        ]
+    },
+    "SE": {
+        "name": "Shvetsiya",
+        "native": "Sverige",
+        "phone": "46",
+        "area": "449,964.0",
+        "population": "10,183,175",
+        "continent": "EU",
+        "capital": "Stockholm",
+        "currency": "SEK",
+        "languages": [
+            "sv"
+        ]
+    },
+    "SG": {
+        "name": "Singapur",
+        "native": "Singapore",
+        "phone": "65",
+        "area": "692.7",
+        "continent": "AS",
+        "population": "5,638,676",
+        "capital": "Singapore",
+        "currency": "SGD",
+        "languages": [
+            "en",
+            "ms",
+            "ta",
+            "zh"
+        ]
+    },
+    "SI": {
+        "name": "Sloveniya",
+        "native": "Slovenija",
+        "phone": "386",
+        "area": "20,273.0",
+        "population": "2,067,372",
+        "continent": "EU",
+        "capital": "Ljubljana",
+        "currency": "EUR",
+        "languages": [
+            "sl"
+        ]
+    },
+    "SK": {
+        "name": "Slovakiya",
+        "native": "Slovensko",
+        "phone": "421",
+        "continent": "EU",
+        "area": "48,845.0",
+        "population": "5,447,011",
+        "capital": "Bratislava",
+        "currency": "EUR",
+        "languages": [
+            "sk"
+        ]
+    },
+    "SL": {
+        "name": "Syerra Leone",
+        "native": "Sierra Leone",
+        "phone": "232",
+        "area": "71,740.0",
+        "continent": "AF",
+        "population": "7,650,154",
+        "capital": "Freetown",
+        "currency": "SLL",
+        "languages": [
+            "en"
+        ]
+    },
+    "SM": {
+        "name": "San Marino",
+        "native": "San Marino",
+        "phone": "378",
+        "area": "61.2",
+        "population": "33,785",
+        "continent": "EU",
+        "capital": "City of San Marino",
+        "currency": "EUR",
+        "languages": [
+            "it"
+        ]
+    },
+    "SN": {
+        "name": "Senegal",
+        "native": "Sénégal",
+        "phone": "221",
+        "area": "196,190.0",
+        "continent": "AF",
+        "population": "15,854,360",
+        "capital": "Dakar",
+        "currency": "XOF",
+        "languages": [
+            "fr"
+        ]
+    },
+    "SO": {
+        "name": "Somali",
+        "native": "Soomaaliya",
+        "phone": "252",
+        "continent": "AF",
+        "area": "637,657.0",
+        "population": "15,008,154",
+        "capital": "Mogadishu",
+        "currency": "SOS",
+        "languages": [
+            "so",
+            "ar"
+        ]
+    },
+    "SR": {
+        "name": "Surinam",
+        "native": "Suriname",
+        "phone": "597",
+        "continent": "SA",
+        "area": "163,270.0",
+        "population": "575,991",
+        "capital": "Paramaribo",
+        "currency": "SRD",
+        "languages": [
+            "nl"
+        ]
+    },
+    "SS": {
+        "name": "Janubiy Sudan",
+        "native": "South Sudan",
+        "phone": "211",
+        "area": "644,329.0",
+        "continent": "AF",
+        "population": "8,260,490",
+        "capital": "Juba",
+        "currency": "SSP",
+        "languages": [
+            "en"
+        ]
+    },
+    "ST": {
+        "name": "San Tome",
+        "native": "São Tomé e Príncipe",
+        "phone": "239",
+        "area": "1,001.0",
+        "population": "197,700",
+        "continent": "AF",
+        "capital": "São Tomé",
+        "currency": "STN",
+        "languages": [
+            "pt"
+        ]
+    },
+    "SV": {
+        "name": "El Salvador",
+        "native": "El Salvador",
+        "phone": "503",
+        "area": "21,040.0",
+        "population": "6,420,744",
+        "continent": "NA",
+        "capital": "San Salvador",
+        "currency": "SVC,USD",
+        "languages": [
+            "es"
+        ]
+    },
+    "SY": {
+        "name": "Suriya",
+        "native": "سوريا",
+        "phone": "963",
+        "area": "185,180.0",
+        "continent": "AS",
+        "population": "16,906,283",
+        "capital": "Damascus",
+        "currency": "SYP",
+        "languages": [
+            "ar"
+        ]
+    },
+    "SZ": {
+        "name": "Svazilend",
+        "native": "Swaziland",
+        "phone": "268",
+        "area": "17,363.0",
+        "population": "1,136,191",
+        "continent": "AF",
+        "capital": "Lobamba",
+        "currency": "SZL",
+        "languages": [
+            "en",
+            "ss"
+        ]
+    },
+    "TD": {
+        "name": "Chad",
+        "native": "Tchad",
+        "phone": "235",
+        "area": "1,284,000.0",
+        "continent": "AF",
+        "population": "15,477,751",
+        "capital": "N'Djamena",
+        "currency": "XAF",
+        "languages": [
+            "fr",
+            "ar"
+        ]
+    },
+    "TG": {
+        "name": "Togo",
+        "native": "Togo",
+        "phone": "228",
+        "area": "56,785.0",
+        "population": "7,889,094",
+        "continent": "AF",
+        "capital": "Lomé",
+        "currency": "XOF",
+        "languages": [
+            "fr"
+        ]
+    },
+    "TH": {
+        "name": "Tailand",
+        "native": "ประเทศไทย",
+        "phone": "66",
+        "area": "514,000.0",
+        "population": "69,428,524",
+        "continent": "AS",
+        "capital": "Bangkok",
+        "currency": "THB",
+        "languages": [
+            "th"
+        ]
+    },
+    "TJ": {
+        "name": "Tojikiston",
+        "native": "Тоҷикистон",
+        "phone": "992",
+        "area": "143,100.0",
+        "population": "9,100,837",
+        "continent": "AS",
+        "capital": "Dushanbe",
+        "currency": "TJS",
+        "languages": [
+            "tg",
+            "ru"
+        ]
+    },
+    "TL": {
+        "name": "Sharqiy Timor",
+        "native": "Timor-Leste",
+        "phone": "670",
+        "area": "15,007.0",
+        "population": "1,267,972",
+        "continent": "OC",
+        "capital": "Dili",
+        "currency": "USD",
+        "languages": [
+            "pt"
+        ]
+    },
+    "TM": {
+        "name": "Turkmaniston",
+        "native": "Türkmenistan",
+        "phone": "993",
+        "area": "488,100.0",
+        "population": "5,850,908",
+        "continent": "AS",
+        "capital": "Ashgabat",
+        "currency": "TMT",
+        "languages": [
+            "tk",
+            "ru"
+        ]
+    },
+    "TN": {
+        "name": "Tunis",
+        "native": "تونس",
+        "phone": "216",
+        "area": "163,610.0",
+        "population": "11,565,204",
+        "continent": "AF",
+        "capital": "Tunis",
+        "currency": "TND",
+        "languages": [
+            "ar"
+        ]
+    },
+    "TO": {
+        "name": "Tonga",
+        "native": "Tonga",
+        "phone": "676",
+        "area": "748.0",
+        "population": "103,197",
+        "continent": "OC",
+        "capital": "Nuku'alofa",
+        "currency": "TOP",
+        "languages": [
+            "en",
+            "to"
+        ]
+    },
+    "TR": {
+        "name": "Turkiya",
+        "native": "Türkiye",
+        "phone": "90",
+        "area": "780,580.0",
+        "population": "82,319,724",
+        "continent": "AS",
+        "capital": "Ankara",
+        "currency": "TRY",
+        "languages": [
+            "tr"
+        ]
+    },
+    "TT": {
+        "name": "Trinidad va Tobago",
+        "native": "Trinidad and Tobago",
+        "phone": "1868",
+        "area": "5,128.0",
+        "population": "1,389,858",
+        "continent": "NA",
+        "capital": "Port of Spain",
+        "currency": "TTD",
+        "languages": [
+            "en"
+        ]
+    },
+    "TV": {
+        "name": "Tuvalu",
+        "native": "Tuvalu",
+        "phone": "688",
+        "area": "26.0",
+        "population": "11,508",
+        "continent": "OC",
+        "capital": "Funafuti",
+        "currency": "AUD",
+        "languages": [
+            "en"
+        ]
+    },
+    "TW": {
+        "name": "Tayvan",
+        "native": "臺灣",
+        "phone": "886",
+        "area": "35,980.0",
+        "population": "22,894,384",
+        "continent": "AS",
+        "capital": "Taipei",
+        "currency": "TWD",
+        "languages": [
+            "zh"
+        ]
+    },
+    "TZ": {
+        "name": "Tanzaniya",
+        "native": "Tanzania",
+        "phone": "255",
+        "area": "945,087.0",
+        "population": "56,318,348",
+        "continent": "AF",
+        "capital": "Dodoma",
+        "currency": "TZS",
+        "languages": [
+            "sw",
+            "en"
+        ]
+    },
+    "UA": {
+        "name": "Ukraina",
+        "native": "Україна",
+        "phone": "380",
+        "area": "603,700.0",
+        "population": "44,622,516",
+        "continent": "EU",
+        "capital": "Kyiv",
+        "currency": "UAH",
+        "languages": [
+            "uk"
+        ]
+    },
+    "UG": {
+        "name": "Uganda",
+        "native": "Uganda",
+        "phone": "256",
+        "area": "236,040.0",
+        "population": "42,723,139",
+        "continent": "AF",
+        "capital": "Kampala",
+        "currency": "UGX",
+        "languages": [
+            "en",
+            "sw"
+        ]
+    },
+    "US": {
+        "name": "Amerika Qo'shma Shtatlari",
+        "native": "United States",
+        "phone": "1",
+        "area": "9,629,091.0",
+        "population": "327,167,434",
+        "continent": "NA",
+        "capital": "Washington D.C.",
+        "currency": "USD,USN,USS",
+        "languages": [
+            "en"
+        ]
+    },
+    "UY": {
+        "name": "Urugvay",
+        "native": "Uruguay",
+        "phone": "598",
+        "area": "176,220.0",
+        "population": "3,449,299",
+        "continent": "SA",
+        "capital": "Montevideo",
+        "currency": "UYI,UYU",
+        "languages": [
+            "es"
+        ]
+    },
+    "UZ": {
+        "name": "O'zbekiston",
+        "native": "O‘zbekiston",
+        "phone": "998",
+        "area": "448,978.0",
+        "population": "33,936,316",
+        "continent": "AS",
+        "capital": "Tashkent",
+        "currency": "UZS",
+        "languages": [
+            "uz",
+            "ru"
+        ]
+    },
+    "VA": {
+        "name": "Vatikan",
+        "native": "Vaticano",
+        "phone": "379",
+        "area": "0.4",
+        "population": "921",
+        "continent": "EU",
+        "capital": "Vatican City",
+        "currency": "EUR",
+        "languages": [
+            "it",
+            "la"
+        ]
+    },
+    "VE": {
+        "name": "Venesuela",
+        "native": "Venezuela",
+        "phone": "58",
+        "area": "912,050.0",
+        "population": "28,870,195",
+        "continent": "SA",
+        "capital": "Caracas",
+        "currency": "VES",
+        "languages": [
+            "es"
+        ]
+    },
+    "VN": {
+        "name": "Vyetnam",
+        "native": "Việt Nam",
+        "phone": "84",
+        "area": "329,560.0",
+        "population": "95,540,395",
+        "continent": "AS",
+        "capital": "Hanoi",
+        "currency": "VND",
+        "languages": [
+            "vi"
+        ]
+    },
+    "VU": {
+        "name": "Vanuatu",
+        "native": "Vanuatu",
+        "phone": "678",
+        "area": "12,200.0",
+        "population": "292,680",
+        "continent": "OC",
+        "capital": "Port Vila",
+        "currency": "VUV",
+        "languages": [
+            "bi",
+            "en",
+            "fr"
+        ]
+    },
+    "WS": {
+        "name": "Samoa",
+        "native": "Samoa",
+        "phone": "685",
+        "area": "2,944.0",
+        "continent": "OC",
+        "population": "196,130",
+        "capital": "Apia",
+        "currency": "WST",
+        "languages": [
+            "sm",
+            "en"
+        ]
+    },
+    "XK": {
+        "name": "Kosovo",
+        "native": "Republika e Kosovës",
+        "phone": "377,381,383,386",
+        "area": "10,908.0",
+        "population": "1,845,300",
+        "continent": "EU",
+        "capital": "Pristina",
+        "currency": "EUR",
+        "languages": [
+            "sq",
+            "sr"
+        ]
+    },
+    "YE": {
+        "name": "Yaman",
+        "native": "اليَمَن",
+        "phone": "967",
+        "area": "527,970.0",
+        "population": "28,498,687",
+        "continent": "AS",
+        "capital": "Sana'a",
+        "currency": "YER",
+        "languages": [
+            "ar"
+        ]
+    },
+    "ZA": {
+        "name": "Janubiy Afrika Respublikasi",
+        "native": "South Africa",
+        "phone": "27",
+        "area": "1,219,912.0",
+        "population": "57,779,622",
+        "continent": "AF",
+        "capital": "Pretoria",
+        "currency": "ZAR",
+        "languages": [
+            "af",
+            "en",
+            "nr",
+            "st",
+            "ss",
+            "tn",
+            "ts",
+            "ve",
+            "xh",
+            "zu"
+        ]
+    },
+    "ZM": {
+        "name": "Zambiya",
+        "native": "Zambia",
+        "phone": "260",
+        "area": "752,614.0",
+        "population": "17,351,822",
+        "continent": "AF",
+        "capital": "Lusaka",
+        "currency": "ZMK",
+        "languages": [
+            "en"
+        ]
+    },
+    "ZW": {
+        "name": "Zimbabve",
+        "native": "Zimbabwe",
+        "phone": "263",
+        "area": "390,580.0",
+        "population": "14,439,018",
+        "continent": "AF",
+        "capital": "Harare",
+        "currency": "USD,ZAR,BWP,GBP,AUD,CNY,INR,JPY",
+        "languages": [
+            "en",
+            "sn",
+            "nd"
+        ]
+    }
+}
