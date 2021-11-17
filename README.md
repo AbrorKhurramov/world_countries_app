@@ -1,4 +1,4 @@
-# shop_app
+# World Countries App
 
 A new Flutter application.
 
